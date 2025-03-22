@@ -11,6 +11,7 @@
 
 <!-- Social icons section -->
 <p align="center">
+  <a href="https://el-repositorio-del-lamer.notion.site/El-repositorio-del-Lamer-fcc360447cc34f84817ab46fe846d3e6"><img width="32px" alt="HTB" title="HTB" src="https://i.imgur.com/rBdMtp3.png"></a>
   <a href="https://www.linkedin.com/in/vpanal/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/mdc5yfNXUg" alt="Discord" title="Discord"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
