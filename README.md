@@ -1,5 +1,5 @@
 <p align="center">
-  <span style="font-family: 'Fira Code', monospace; font-size: 32px; color: #f75c7e;">vpanal</span>
+  <span style="font-family: 'Fira Code', monospace; font-size: 32px; color: #f75c7e;"><img src="https://imgur.com/sh8SF3H.png" width="110px" alt="vpanal" /></span>
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
 <br/>
 
 <p align="center">
-  <span style="font-family: 'Fira Code', monospace; font-size: 22px; color: #f75c7e;">Badges</span>
+  <span style="font-family: 'Fira Code', monospace; font-size: 22px; color: #f75c7e;"><img src="https://i.imgur.com/CsfgqQX.png" width="80px" alt="Badges" /></span>
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@
 
 
 <p align="center">
-  <span style="font-family: 'Fira Code', monospace; font-size: 22px; color: #f75c7e;">Tech Stats</span>
+  <span style="font-family: 'Fira Code', monospace; font-size: 22px; color: #f75c7e;"><img src="https://imgur.com/aCCgVqT.png" width="115px" alt="Tech Stats" /></span>
 </p>
 
 
