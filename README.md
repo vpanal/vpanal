@@ -1,6 +1,5 @@
 <p align="center">
-  <a href="https://github.com/vpanal">
-    <img src="https://readme-typing-svg.demolab.com/?lines=vpanal&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+  <span style="font-family: 'Fira Code', monospace; font-size: 32px; color: #f75c7e;">vpanal</span>
 </p>
 
 <p align="center">
@@ -16,7 +15,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/vpmpwn" alt="Discord" title="Discord"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://app.hackthebox.com/profile/534714"><img width="32px" alt="HTB" title="HTB" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjDzxlNL92ntRTBI1IUwhxyAj7Ybk1mkW5AA&s"></a>
+  <a href="https://app.hackthebox.com/profile/534714"><img width="32px" alt="HTB" title="HTB" src="https://i.imgur.com/O7JEN8l.png"></a>
 </p>
 
 <br/>
@@ -32,10 +31,20 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/vpanal">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Tech%20Stats&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
-  </a>
+  <span style="font-family: 'Fira Code', monospace; font-size: 22px; color: #f75c7e;">Badges</span>
 </p>
+
+<p align="center">
+  <a href="https://www.offsec.com/courses/pen-200/">
+    <img src="https://i.imgur.com/t2NfFjS.png" width=64px />
+  </a>
+</p><br>
+
+
+<p align="center">
+  <span style="font-family: 'Fira Code', monospace; font-size: 22px; color: #f75c7e;">Tech Stats</span>
+</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -59,8 +68,11 @@
     <a href="https://github.com/vpanal/GoRTSPBrute"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=vpanal&repo=GoRTSPBrute&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="GoRTSPBrute"></a>
     <a href="https://github.com/vpanal/smbshell"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=vpanal&repo=smbshell&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="smbshell"></a>
     <a href="https://github.com/vpanal/HTB_Telegram_bot"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=vpanal&repo=HTB_Telegram_bot&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="HTB_Telegram_bot"></a>
+    <a href="https://github.com/vpanal/http2revshell"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=vpanal&repo=http2revshell&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="http2revshell"></a>
+    <a href="https://github.com/vpanal/RevShellRelay"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=vpanal&repo=RevShellRelay&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="RevShellRelay"></a>
   </p>
 
   <a href="https://github.com/vpanal?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
+
 
